@@ -1,0 +1,2 @@
+My Personal Portfolio Website
+Welcome to my personal portfolio repository! This website is crafted to showcase my skills, creative projects, and professional journey as a developer. Built with a strong focus on clean code, semantic structures, and visual storytelling, it serves as a digital hub for my work. It features a fully responsive layout with seamless mobile navigation and custom animations to deliver an engaging user experience across all devices.
